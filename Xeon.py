@@ -10,7 +10,7 @@ print("""
 ░██╔██╗░██╔══╝░░██║░░██║██║╚████║
 ██╔╝╚██╗███████╗╚█████╔╝██║░╚███║
 ╚═╝░░╚═╝╚══════╝░╚════╝░╚═╝░░╚══╝
-made by Alliege
+Made by Alliege
 """)
 
 num=input('[Xeon] Input how many codes you want to generate and Check: ')
